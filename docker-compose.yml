@@ -10,4 +10,3 @@ services:
       - ./:/home/node/app
     ports:
       - "8080:8080"
-    command: "npm start"
